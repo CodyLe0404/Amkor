@@ -1,0 +1,5 @@
+Hello
+Welcome to the file
+This is simple file txt
+4th line
+Fruit include : Apple, Banana, Kiwi, Watermelon, Lemon, Blue berry
